@@ -29,6 +29,8 @@ The following characteristics of the options will be compared:
 3. Familiar programming constructs
 4. Support for latest APIs of the Azure Services
 5. Tools
+6. Cross-platform support
+7. Additional language specifc features
 
 ## 2.1 Declarative vs Imperative nature of the language
 
